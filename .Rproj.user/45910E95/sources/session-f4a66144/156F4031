@@ -3,7 +3,7 @@
     "path": "~/Desktop/Biostat_620/website/CV.qmd",
     "project_path": "CV.qmd",
     "type": "quarto_markdown",
-    "hash": "1770597881",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1775145356141.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "3,0",
+        "cursorPosition": "1,24",
         "scrollLine": "0",
         "rmdVisualModeLocation": "85:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1775145574,
+    "lastKnownWriteTime": 1775148909,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1775145574877,
+    "last_content_update": 1775148909074,
     "read_only": false,
     "read_only_alternatives": []
 }
